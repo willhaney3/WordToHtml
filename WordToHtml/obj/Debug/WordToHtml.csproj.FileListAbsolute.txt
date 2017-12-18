@@ -7,3 +7,13 @@ D:\Dropbox\tc\Development\c#\WinForms\WordToHtml\WordToHtml\obj\Debug\WordToHtml
 D:\Dropbox\tc\Development\c#\WinForms\WordToHtml\WordToHtml\obj\Debug\WordToHtml.csproj.GenerateResource.Cache
 D:\Dropbox\tc\Development\c#\WinForms\WordToHtml\WordToHtml\obj\Debug\WordToHtml.exe
 D:\Dropbox\tc\Development\c#\WinForms\WordToHtml\WordToHtml\obj\Debug\WordToHtml.pdb
+C:\Users\whaney\OneDrive - Training Consultants\tc\Development\csharp\WinForms\WordToHtml\WordToHtml\bin\Debug\WordToHtml.exe.config
+C:\Users\whaney\OneDrive - Training Consultants\tc\Development\csharp\WinForms\WordToHtml\WordToHtml\bin\Debug\WordToHtml.exe
+C:\Users\whaney\OneDrive - Training Consultants\tc\Development\csharp\WinForms\WordToHtml\WordToHtml\bin\Debug\WordToHtml.pdb
+C:\Users\whaney\OneDrive - Training Consultants\tc\Development\csharp\WinForms\WordToHtml\WordToHtml\obj\Debug\WordToHtml.csprojResolveAssemblyReference.cache
+C:\Users\whaney\OneDrive - Training Consultants\tc\Development\csharp\WinForms\WordToHtml\WordToHtml\obj\Debug\WordToHtml.Form1.resources
+C:\Users\whaney\OneDrive - Training Consultants\tc\Development\csharp\WinForms\WordToHtml\WordToHtml\obj\Debug\WordToHtml.Properties.Resources.resources
+C:\Users\whaney\OneDrive - Training Consultants\tc\Development\csharp\WinForms\WordToHtml\WordToHtml\obj\Debug\WordToHtml.csproj.GenerateResource.Cache
+C:\Users\whaney\OneDrive - Training Consultants\tc\Development\csharp\WinForms\WordToHtml\WordToHtml\obj\Debug\WordToHtml.csproj.CoreCompileInputs.cache
+C:\Users\whaney\OneDrive - Training Consultants\tc\Development\csharp\WinForms\WordToHtml\WordToHtml\obj\Debug\WordToHtml.exe
+C:\Users\whaney\OneDrive - Training Consultants\tc\Development\csharp\WinForms\WordToHtml\WordToHtml\obj\Debug\WordToHtml.pdb
